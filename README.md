@@ -77,4 +77,4 @@ feat: add TaskItem with edit/delete functionality
 
 ---
 
-![Task UI](\task.jpg)
+![Task UI](task.jpg)
